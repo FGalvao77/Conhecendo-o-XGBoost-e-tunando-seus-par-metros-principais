@@ -1,1 +1,1 @@
-# Conhecendo-o-XGBoost-e-tunando-seus-par-metros-principais
+# Conhecendo o XGBoost e tunando seus parâmetros principais
